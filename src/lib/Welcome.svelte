@@ -28,7 +28,7 @@
   <div class="md:flex mt-6">
     <div class="animate__animated animate__fadeInDown animate__delay-2s">
       <a
-        href="https://www.linkedin.com/in/jacopobonomi/"
+        href="https://www.linkedin.com/in/jacopo-bonomi/"
         class="text-center btn btn-ld shadow-lg	bg-neutral-200 mt-2 btn block md:inline opacity-90 hover:opacity-100 rounded-lg hover:border-none mr-4 py-3"
       >
         <i class="fab fa-linkedin-in pl-4 " />
@@ -42,14 +42,14 @@
         <span class="pr-4">Github</span>
       </a>
       <a
-        href="https://www.linkedin.com/in/jacopobonomi/"
+        href="https://stackoverflow.com/users/8664379/jacopo-bonomi"
         class="text-center btn btn-so shadow-lg	bg-neutral-200 mt-2 block btn md:inline opacity-90 hover:opacity-100 rounded-lg hover:border-none mr-4 py-3"
       >
         <i class="fab fa-stack-overflow pl-4 " />
         <span class="pr-4">Stackoverflow</span>
       </a>
       <a
-        href="https://www.instagram.com/jacopobonomi/"
+        href="https://www.instagram.com/jacopo_bonomi/"
         class="text-center bg-neutral-200 shadow-lg btn btn-ig mt-2 block md:inline opacity-90 hover:opacity-100 rounded-lg hover:border-none mr-4 py-3"
       >
         <i class="fab fa-instagram pl-4 " />
