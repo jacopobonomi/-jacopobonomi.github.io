@@ -14,7 +14,7 @@
         <a href="https://www.hitech-sanita.it/" class="underline"
           >Hi-tech (Health)</a
         >
-        <p class="mb-4">11/01/2016 - 11/01/2016</p>
+        <p class="mb-4">10/04/2015 - 10/09/2015</p>
         <i> Linux, Git, Docker, MySQL, LDAP, </i>
       </div>
     </div>
@@ -22,7 +22,7 @@
       <div class="card-glass shadow-lg rounded-2xl p-6 m-2">
         <p class="font-bold text-xl uppercase ">self employed</p>
         <p class="underline">self employed</p>
-        <p class="mb-4">11/01/2016 - today</p>
+        <p class="mb-4">11/06/2017 - today</p>
         <i> really too many languages ​​and software to write them.</i>
       </div>
     </div>
@@ -31,7 +31,7 @@
       <div class="card-glass shadow-lg rounded-2xl p-6 m-2">
         <p class="font-bold text-xl uppercase ">Web developer</p>
         <a href="https://www.cabel.it/" class="underline">Cabel (Banking)</a>
-        <p class="mb-4">11/01/2016 - 11/01/2016</p>
+        <p class="mb-4">10/02/2019 - 10/08/2019</p>
         <i> Java, Jerkings, Jackson, Spring, .NET, AngularJS </i>
       </div>
     </div>
@@ -41,7 +41,7 @@
         <a href="https://slumdesign.com" class="underline"
           >Slum (Communication)</a
         >
-        <p class="mb-4">11/01/2016 - 11/01/2016</p>
+        <p class="mb-4">15/08/2019 - today</p>
 
         <ul>
           <li>- Backend (NodeJS, Golang, PHP)</li>
@@ -62,7 +62,7 @@
         <a href="https://www.develondigital.com/" class="underline"
           >Develon (Product, advice)</a
         >
-        <p class="mb-4">11/01/2016 - 11/01/2016</p>
+        <p class="mb-4">10/11/2021 - 31/12/2022</p>
         <ul>
           <li>- AWS (many services)</li>
           <li>- Backend (NodeJS <i>[NestJS, AdonisJS, Fastify]</i>)</li>
