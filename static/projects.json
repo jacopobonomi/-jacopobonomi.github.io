@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Tally",
+		"description": "A simple CMS to create amazing webapps",
+		"url": "https://tally-app.com",
+		"languages": ["React", "Node", "Golang", "Next"],
+		"architecture": [
+			"AWS",
+			"Docker",
+			"lambda",
+			"S3",
+			"Cloudfront",
+			"Cloudwatch",
+			"RDS (MariaDB)",
+			"Firebase"
+		]
+	},
+	{
+		"name": "Keep",
+		"description": "An amazing project to keep your room under control",
+		"url": "https://keepofficial.com",
+		"languages": ["Python", "React", "Flutter"],
+		"architecture": ["AWS", "Docker", "S3", "Cloudfront", "Cloudwatch", "RDS (Postgres)"]
+	},
+	{
+		"name": "Todo",
+		"description": "An amazing project to keep your room under control",
+		"url": "https://todo-app.com",
+		"languages": ["React", "Node", "Golang", "Next"],
+		"architecture": ["AWS", "Docker", "lambda", "S3", "Cloudfront", "Cloudwatch", "RDS (Postgres)"]
+	}
+]

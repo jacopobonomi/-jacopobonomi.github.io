@@ -1,0 +1,37 @@
+[
+	{
+		"role": "System administrator",
+		"company": "Hi-tech S.p.a",
+		"startDate": "2019-01-01",
+		"endDate": "2019-12-31",
+		"description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+	},
+	{
+		"role": "Devops self employed",
+		"company": "Self employed",
+		"startDate": "2019-01-01",
+		"endDate": "2019-12-31",
+		"description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+	},
+	{
+		"role": "Full stack developer",
+		"company": "Cabel S.p.a",
+		"startDate": "2019-01-01",
+		"endDate": "2019-12-31",
+		"description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+	},
+	{
+		"role": "CTO and partner",
+		"company": "Slum S.r.l",
+		"startDate": "2019-01-01",
+		"endDate": "2019-12-31",
+		"description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+	},
+	{
+		"role": "Backend developer",
+		"company": "Develon S.r.l",
+		"startDate": "2019-01-01",
+		"endDate": "2019-12-31",
+		"description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+	}
+]
