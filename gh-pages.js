@@ -3,7 +3,7 @@ import { publish } from "gh-pages";
 publish(
   "build",
   {
-    branch: "master",
+    branch: "gh-pages",
     repo: "https://github.com/jacopobonomi/jacopobonomi.github.io",
     user: {
       name: "Bonomi Jacopo",

@@ -67,7 +67,7 @@ html {
 }
 
 /* Button:hover */
-.btn-ig:hover, .btn-fb:hover, .btn-twitter:hover, .btn-github:hover {
+.btn-ig:hover, .btn-gh:hover, .btn-so:hover, .btn-ld:hover {
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
     color: white;
 }
