@@ -11,10 +11,10 @@
 		<p
 		class="text-xl font-300 mt-4 animate__animated animate__fadeIn animate__delay-1s"
 	  >
-		I <b>love</b> learn, (<a href="https://en.wikipedia.org/wiki/I_know_that_I_know_nothing">i know that i know nothing</a>)<br />
+		I <b>love</b> learning, (<a href="https://en.wikipedia.org/wiki/I_know_that_I_know_nothing">I know that I know nothing</a>)<br />
 		My biggest passion found during my life is computer science. I started as
 		a linux system administrator
-		<i>(I love GNU/Linux [since 2007] and open source)</i>, where I learn how to
+		<i>(I love GNU/Linux [since 2007] and open source)</i>, where I learned how to
 		configure servers for many applications and how to configure networks. From
 		this passion I moved on to security where for practice I completed many CTFs
 		(I also have a profile on Hackthebox, if you want to add me), in particular
