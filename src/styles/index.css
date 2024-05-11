@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;900&family=Open+Sans:wght@300;400;500;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	font-family: 'Inconsolata', monospace !important;
+}
+
+.bg-image-gif {
+	background-image: url('/background.gif');
+	background-position: left;
+	background-attachment: fixed;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#about,
+#project,
+#contact,
+#philosophy,
+#experience,
+.card-glass {
+	background: rgba(14, 14, 14, 0.2);
+	box-shadow: 0 8px 32px 0 rgba(19, 19, 19, 0.27);
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+}
+
+/* Button */
+.btn i {
+	font-size: 1em;
+	padding-right: 2px;
+	transition: all 0.1s ease-in-out;
+}
+
+.btn span {
+	align-self: center;
+	transform: translateX(0px);
+	transition: all 0.1s ease-in-out;
+	opacity: 1;
+}
+
+.btn:active {
+	transform: scale(1);
+	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-ig,
+.btn-fb,
+.btn-twitter,
+.btn-github {
+	min-width: 150px;
+	max-width: 100%;
+	transition: all 0.2s ease-in-out;
+}
+
+.btn-ig {
+	color: #c71e7e;
+}
+
+.btn-gh {
+	color: #333;
+}
+
+.btn-so {
+	color: #f48024;
+}
+
+.btn-ld {
+	color: #00a0dc;
+}
+
+/* Button:hover */
+.btn-ig:hover,
+.btn-gh:hover,
+.btn-so:hover,
+.btn-ld:hover {
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	color: white;
+}
+
+.btn-ig:hover {
+	background: linear-gradient(to right, #d4bdba 0%, #c90477 100%);
+}
+
+.btn-gh:hover {
+	background: linear-gradient(to right, #333 0%, rgb(19, 19, 19) 100%);
+}
+
+.btn-so:hover {
+	background: linear-gradient(to right, #f48024 0%, #f36f04 100%);
+}
+
+.btn-ld:hover {
+	background: linear-gradient(to right, #00a0dc 0%, #0077b5 100%);
+}
+
+/* Text */
+.text {
+	position: relative;
+	display: inline-block;
+	line-height: 24px;
+	color: white;
+}
+
+.text::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: -11px;
+	display: inline-block;
+	background-color: #606060;
+	vertical-align: top;
+	width: 5px;
+	height: 24px;
+	-webkit-animation: blink 1s step-end infinite;
+	animation: blink 1s step-end infinite;
+}
+
+/* Animation */
+@-webkit-keyframes blink {
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes blink {
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
